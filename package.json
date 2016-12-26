@@ -1,0 +1,21 @@
+{
+  "name": "@colmena/colmena-component-explorer-style",
+  "version": "1.0.0",
+  "description": "Colmena style for the Loopback API Explorer",
+  "homepage": "https://github.com/colmena/colmena-component-explorer-style",
+  "keywords": [
+    "colmena"
+  ],
+  "contributors": [
+    "Bram Borggreve <bram@colmena.io> (https://github.com/beeman)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colmena/colmena-component-explorer-style.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  }
+}
