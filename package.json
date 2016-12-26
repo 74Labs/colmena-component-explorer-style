@@ -1,6 +1,6 @@
 {
   "name": "@colmena/colmena-component-explorer-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colmena style for the Loopback API Explorer",
   "homepage": "https://github.com/colmena/colmena-component-explorer-style",
   "keywords": [
