@@ -27,13 +27,13 @@ body #header {
   width: 100%;
   top: 0;
 }
-
+/*
 body #header a#logo {
   padding: 20px 0 20px 150px !important;
   background: transparent url(../images/logo.png) no-repeat left center;
   background-size: 140px auto;
 }
-
+*/
 body #header form#api_selector .input a#explore {
   background-color: #1E88E5 !important;
 }
